@@ -1,7 +1,8 @@
 Package: capstone
 Title: Mastering Software Development in R Capstone
 Version: 0.1.0
-Authors@R: Michael Poulsen
+Authors@R: person("Michael", "Poulsen", email = "cunningloki@gmail.com",
+                  role = c("aut", "cre"))
 Maintainer: Michael Poulsen
 Depends: R (>= 3.4.1)
 Description: Mastering Software Development in R Capstone
