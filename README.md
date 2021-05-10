@@ -1,5 +1,5 @@
 ### Status
-[![Build Status](https://travis-ci.org/cunningloki/Mastering-Software-Development-in-R-Capstone.png)](https://travis-ci.org/cunningloki/Mastering-Software-Development-in-R-Capstone)
+[![Build Status](https://travis-ci.com/cunningloki/Mastering-Software-Development-in-R-Capstone.png)](https://travis-ci.com/cunningloki/Mastering-Software-Development-in-R-Capstone)
 
 
 # Mastering software development in R Capstone
